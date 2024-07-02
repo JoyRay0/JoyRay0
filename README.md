@@ -2,4 +2,4 @@
 - I am a Android App developer 🛠️
 - You will find here many kinds of Android app 📱
 - If you want more please follow me on github 😀
-- 
+- I love learning new things 
