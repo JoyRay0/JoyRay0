@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Team**
 
-- 👨‍💻 All of my projects are available at [github.com/JoyRay](github.com/JoyRay)
+- 👨‍💻 All of my projects are available at [github.com/JoyRay0](github.com/JoyRay0)
 
 - 💬 Ask me about **Android app development**
 
@@ -31,5 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyray&show_icons=true&locale=en" alt="joyray" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyray&" alt="joyray" /></p>
-
 
