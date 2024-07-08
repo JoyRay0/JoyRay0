@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Team**
 
-- 👨‍💻 All of my projects are available at [github.com/JoyRay0](github.com/JoyRay0)
+- 👨‍💻 All of my projects are available at [github.com/JoyRay](github.com/JoyRay)
 
 - 💬 Ask me about **Android app development**
 
