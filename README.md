@@ -1,45 +1,31 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Joy Ray</h1>
+<h3 align="center">A passionate Android App Developer from Bangladesh</h3>
 
-I'm Joy Ray, an Android App Developer from Bangladesh. Passionate about crafting beautiful and functional applications that solve real-world problems!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoyRay0" alt="" /></a> </p>
 
-## About Me
+- 🔭 I’m currently working on [LawGuidebookApp](https://github.com/JoyRay0/LawGuideBook)
 
-I specialize in Android application development and constantly strive to enhance user experiences through improved UI/UX designs. I am currently available for hire and open to new opportunities.
+- 🌱 I’m currently learning **Jetpack Compose**
 
-## Skills & Technologies
+- 👨‍💻 All of my projects are available at [https://github.com/JoyRay0](https://github.com/JoyRay0)
 
-kotlin,java,androidstudio,git,github,gradle,mysql,bash,sqlite,php
+- 📝 I regularly write articles on [Linkedin](Linkedin)
 
-## Top Projects
+- 💬 Ask me about **Kotlin / Jetpack compose**
 
-- [Daraz-clone](https://github.com/JoyRay0/Daraz-clone) - Daraz Clone অ্যাপ – শিক্ষার উদ্দেশ্যে তৈরি, UI/UX উন্নত ও Daraz-এর সমস্যা সমাধান. ⭐ 1 star
+- 📫 How to reach me **mridulray237@gmail.com**
 
-- [TextWithSubText](https://github.com/JoyRay0/TextWithSubText) - Multi-line TextView Android library. ⭐ 1 star
+- ⚡ Fun fact **I enjoy building custom tools and experimenting with performance-focused development.**
 
-- [You_tube_lite](https://github.com/JoyRay0/You_tube_lite) - YouTube Lite for every Android mobile. ⭐ 1 star
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/JoyRay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+</p>
 
-## GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-🌟 Public Repositories: 6  
-👥 Followers: 0  
-👤 Following: 1  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyray0&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=JoyRay0&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyray0&" alt="" /></p>
 
-## Recent Activity
-
-- Updated [Daraz-clone](https://github.com/JoyRay0/Daraz-clone) on December 8, 2025.
-- Pushed changes to [TextWithSubText](https://github.com/JoyRay0/TextWithSubText) on November 20, 2025.
-- Made several commits to [Daraz-clone](https://github.com/JoyRay0/Daraz-clone) throughout early December 2025.
-
-## Latest Blog Posts
-
-No blog posts available yet. Stay tuned!
-
-## Connect with Me
-
-
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
